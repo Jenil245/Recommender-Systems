@@ -1,8 +1,13 @@
 # Recommender-Systems
 
-Recommender Systems are crucial to any Organization. It also helps customer to discover new and relevant products
+Recommender Systems are crucial to any Organization. It also helps customer to discover new and relevant products.
 
-Type of recommendations are : 
+# About Dataset
+
+Dataset contains 9742 different movies and nearly 1 million ratings.
+
+# Type of Recommendations
+
 <ol>
 <li>
 Popularity Based Recommendation </li><li>
@@ -10,6 +15,8 @@ Content Based Recommendation </li><li>
 Item Based Collaborative Filtering </li><li>
 User Based Collaborative Filtering </li><li>
 Matrix Factorization </li></ol>
+
+# How Recommendation Works
 
 1. Popularity Based Recommendation Engine recommends content which are very popular. It depends on number of views and number of likes. Example : Top trending Youtube videos.
 
