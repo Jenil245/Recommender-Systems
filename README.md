@@ -4,7 +4,7 @@ Recommender Systems are crucial to any Organization. It also helps customer to d
 
 # About Dataset
 
-Dataset contains 9742 different movies and nearly 1 million ratings.
+Dataset contains 9742 different movies and nearly 100k ratings.
 
 # Type of Recommendations
 
