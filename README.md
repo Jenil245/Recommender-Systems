@@ -28,5 +28,38 @@ Matrix Factorization </li></ol>
 
 5. Matrix Factorization is really a complex method to explain. In simple words, It captures the latent features between movies and users, then estimates how would you react to particular content. Based on that it recommends content to you.
 
-<b>In real world most of the companies use hybrid recommender systems.</b>
 
+</br></br></br>
+
+<b>1) In popularity based system, I have consider minimum total count of rating and average rating.</b></br></br></br>
+![alt text](https://github.com/Jenil245/Recommender-Systems/blob/master/top_10.PNG)
+</br></br>
+<b>
+2)For content based, there are two ways where one depends on cosine similarity and another on sigmoid kernel.
+</b></br></br></br>
+Cosine Similarity
+
+![alt text](https://github.com/Jenil245/Recommender-Systems/blob/master/content_based_cosine.PNG)
+</br></br></br>
+Sigmoid Kernel
+
+![alt text](https://github.com/Jenil245/Recommender-Systems/blob/master/content_based_sigmoid.PNG)
+</br></br></br>
+<b>3)ITEM_BASED COLLABORATIVE FILTERING</b>
+</br></br></br>
+![alt text](https://github.com/Jenil245/Recommender-Systems/blob/master/itembased_collaborative.PNG)
+</br></br></br>
+<b>4)USER_BASED COLLABORATIVE FILTERING</b>
+
+</br></br></br>
+![alt text](https://github.com/Jenil245/Recommender-Systems/blob/master/userbased_collaborative.PNG)
+</br></br></br>
+
+<b>5)MATRIX FACTORIZATION</b>
+</br></br></br>
+![alt text](https://github.com/Jenil245/Recommender-Systems/blob/master/matrix_factorization.PNG)
+
+</br></br></br>
+
+</br></br></br>
+<b>In real world most of the companies use hybrid recommender systems.</b>
